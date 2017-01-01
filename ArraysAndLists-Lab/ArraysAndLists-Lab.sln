@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1.DayOfWeek", "1.DayOfWeek\1.DayOfWeek.csproj", "{91219EB4-027D-4B08-A2CE-E9F045F72AB2}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.DayOfWeek", "1.DayOfWeek\01.DayOfWeek.csproj", "{91219EB4-027D-4B08-A2CE-E9F045F72AB2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2.ReverseAnArrayOfIntegers", "2.ReverseAnArrayOfIntegers\2.ReverseAnArrayOfIntegers.csproj", "{AA84D369-902A-4816-AC99-FC06E4FCA21E}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.ReverseAnArrayOfIntegers", "2.ReverseAnArrayOfIntegers\02.ReverseAnArrayOfIntegers.csproj", "{AA84D369-902A-4816-AC99-FC06E4FCA21E}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.LastKNumbersSums", "03.LastKNumbersSums\03.LastKNumbersSums.csproj", "{F8F7AEE6-985F-4913-A496-1A00D6FFCDC8}"
 EndProject
