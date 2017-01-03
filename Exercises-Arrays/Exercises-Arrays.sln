@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.RotateAndSum", "02.Rotat
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.FoldАndSum", "03.FoldАndSum\03.FoldАndSum.csproj", "{6D1B304B-90D2-42BC-AA1A-58F457EB15A4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04.SieveOfEratosthenes", "04.SieveOfEratosthenes\04.SieveOfEratosthenes.csproj", "{FE0D3795-CB16-42EC-BAF5-64BBCA3C1F64}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{6D1B304B-90D2-42BC-AA1A-58F457EB15A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6D1B304B-90D2-42BC-AA1A-58F457EB15A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6D1B304B-90D2-42BC-AA1A-58F457EB15A4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FE0D3795-CB16-42EC-BAF5-64BBCA3C1F64}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE0D3795-CB16-42EC-BAF5-64BBCA3C1F64}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE0D3795-CB16-42EC-BAF5-64BBCA3C1F64}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE0D3795-CB16-42EC-BAF5-64BBCA3C1F64}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
