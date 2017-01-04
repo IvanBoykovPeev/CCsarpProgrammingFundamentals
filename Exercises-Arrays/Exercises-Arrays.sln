@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04.SieveOfEratosthenes", "0
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05.CompareCharArrays", "05.CompareCharArrays\05.CompareCharArrays.csproj", "{719567BE-ADC6-494D-BAC8-E9264CE6DCD7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06.MaxSequenceOfEqualElements", "06.MaxSequenceOfEqualElements\06.MaxSequenceOfEqualElements.csproj", "{5F33AB82-3D43-4CAC-B1C5-D70AAF314304}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{719567BE-ADC6-494D-BAC8-E9264CE6DCD7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{719567BE-ADC6-494D-BAC8-E9264CE6DCD7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{719567BE-ADC6-494D-BAC8-E9264CE6DCD7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5F33AB82-3D43-4CAC-B1C5-D70AAF314304}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F33AB82-3D43-4CAC-B1C5-D70AAF314304}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5F33AB82-3D43-4CAC-B1C5-D70AAF314304}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5F33AB82-3D43-4CAC-B1C5-D70AAF314304}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
