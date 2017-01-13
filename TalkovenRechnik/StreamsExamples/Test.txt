@@ -1,0 +1,6 @@
+﻿int v - 77;
+bool isHere - true;
+namespace - hierarchical organization of classes
+CLR - managed execution environment for .NET
+.NET - platform for applications from Microsoft
+streams - потоци
