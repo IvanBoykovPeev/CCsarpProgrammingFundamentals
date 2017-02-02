@@ -7,7 +7,7 @@ namespace _04.NumbersInReversedOrder
         static void Main()
         {
             string number = Console.ReadLine();
-            Console.WriteLine(string.Join("", ReversNumber(number)));
+            Console.WriteLine(ReversNumber(number));
         }
 
         private static string ReversNumber(string number)

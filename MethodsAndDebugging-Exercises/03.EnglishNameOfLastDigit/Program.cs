@@ -6,13 +6,13 @@ namespace _03.EnglishNameOfLastDigit
     {
         static void Main()
         {
-            int number = int.Parse(Console.ReadLine());
-            Console.WriteLine(LastDigitName(number));
+            long number = long.Parse(Console.ReadLine());
+            Console.WriteLine(LastDigitName(Math.Abs(number)));
         }
 
-        private static string LastDigitName(int number)
+        private static string LastDigitName(long number)
         {
-            int lastDigit = number % 10;
+            long lastDigit = number % 10;
             string digitWord = "";
             switch (lastDigit)
             {
@@ -26,7 +26,7 @@ namespace _03.EnglishNameOfLastDigit
                 case 7: digitWord = "seven"; break;
                 case 8: digitWord = "eight"; break;
                 case 9: digitWord = "nine"; break;
-                default: digitWord = "uncnown";
+                default:
                     break;
             }
             return digitWord;
