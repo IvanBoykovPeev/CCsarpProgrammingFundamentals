@@ -15,6 +15,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05.ClosestTwoPoints", "05.C
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06.RectanglePosition", "06.RectanglePosition\06.RectanglePosition.csproj", "{FD6E6D9C-EEE7-4F31-8D0C-2FAAEA5740C2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07.SalesReport", "07.SalesReport\07.SalesReport.csproj", "{8DCA59C9-22A2-4D06-B6EB-F31E598AB03B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +47,10 @@ Global
 		{FD6E6D9C-EEE7-4F31-8D0C-2FAAEA5740C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FD6E6D9C-EEE7-4F31-8D0C-2FAAEA5740C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FD6E6D9C-EEE7-4F31-8D0C-2FAAEA5740C2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8DCA59C9-22A2-4D06-B6EB-F31E598AB03B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8DCA59C9-22A2-4D06-B6EB-F31E598AB03B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8DCA59C9-22A2-4D06-B6EB-F31E598AB03B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8DCA59C9-22A2-4D06-B6EB-F31E598AB03B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
