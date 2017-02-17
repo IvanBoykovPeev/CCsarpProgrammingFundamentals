@@ -29,6 +29,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "14.IntegerToHexAndBinary", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "17.PrintPartOfASCIITable", "17.PrintPartOfASCIITable\17.PrintPartOfASCIITable.csproj", "{34198477-AD0B-4B18-8F61-1D67ED9D8083}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "18.DifferentIntegersSize", "18.DifferentIntegersSize\18.DifferentIntegersSize.csproj", "{45068E95-E408-4089-8A7D-053373D464BF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -87,6 +89,10 @@ Global
 		{34198477-AD0B-4B18-8F61-1D67ED9D8083}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{34198477-AD0B-4B18-8F61-1D67ED9D8083}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{34198477-AD0B-4B18-8F61-1D67ED9D8083}.Release|Any CPU.Build.0 = Release|Any CPU
+		{45068E95-E408-4089-8A7D-053373D464BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{45068E95-E408-4089-8A7D-053373D464BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{45068E95-E408-4089-8A7D-053373D464BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{45068E95-E408-4089-8A7D-053373D464BF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
