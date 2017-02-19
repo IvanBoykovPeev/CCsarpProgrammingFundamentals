@@ -9,6 +9,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.OddOccurrences", "02.Odd
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.MinMaxSumAverage", "03.MinMaxSumAverage\03.MinMaxSumAverage.csproj", "{8F2CD093-004A-4550-B389-6DD540DD50A7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04.Largest3Numbers", "04.Largest3Numbers\04.Largest3Numbers.csproj", "{F76821A3-F6B0-4116-96D0-A1CA67C2920B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05.ShortWordsSorted", "05.ShortWordsSorted\05.ShortWordsSorted.csproj", "{B114340A-0A71-4DCE-BC6A-4C25F1E51B15}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +31,14 @@ Global
 		{8F2CD093-004A-4550-B389-6DD540DD50A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8F2CD093-004A-4550-B389-6DD540DD50A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8F2CD093-004A-4550-B389-6DD540DD50A7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F76821A3-F6B0-4116-96D0-A1CA67C2920B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F76821A3-F6B0-4116-96D0-A1CA67C2920B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F76821A3-F6B0-4116-96D0-A1CA67C2920B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F76821A3-F6B0-4116-96D0-A1CA67C2920B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B114340A-0A71-4DCE-BC6A-4C25F1E51B15}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B114340A-0A71-4DCE-BC6A-4C25F1E51B15}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B114340A-0A71-4DCE-BC6A-4C25F1E51B15}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B114340A-0A71-4DCE-BC6A-4C25F1E51B15}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
