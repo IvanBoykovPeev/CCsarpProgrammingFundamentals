@@ -37,6 +37,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10.CenturiesToNanoseconds",
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "11.ConvertSpeedUnits", "11.ConvertSpeedUnits\11.ConvertSpeedUnits.csproj", "{E9CBE7D7-0B69-40DF-8B1B-84D44453C977}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "16.ComparingFloats", "16.ComparingFloats\16.ComparingFloats.csproj", "{2AB96C85-49EA-4FAC-8B12-CD1ACDA85A02}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -111,6 +113,10 @@ Global
 		{E9CBE7D7-0B69-40DF-8B1B-84D44453C977}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E9CBE7D7-0B69-40DF-8B1B-84D44453C977}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E9CBE7D7-0B69-40DF-8B1B-84D44453C977}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2AB96C85-49EA-4FAC-8B12-CD1ACDA85A02}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2AB96C85-49EA-4FAC-8B12-CD1ACDA85A02}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2AB96C85-49EA-4FAC-8B12-CD1ACDA85A02}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2AB96C85-49EA-4FAC-8B12-CD1ACDA85A02}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
